@@ -10,3 +10,6 @@
   ### Audio File Selection: Users can browse and select audio files in .wav, .flac, or .aiff formats.
   ### Audio to Text Conversion: Converts the selected audio file to text using Pocketsphinx.
   ### Text Output: Displays the converted text in a text area within the GUI.
+
+# Example :
+![image](https://github.com/user-attachments/assets/f119331d-1df5-477e-8409-fe9002961073)
